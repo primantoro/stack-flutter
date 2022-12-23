@@ -1,10 +1,10 @@
 # stack_flutter
 
-A new F
+A new Flutter project.
 
 https://user-images.githubusercontent.com/74030159/209374718-a60a4e96-533e-4285-9aaf-00737fd3d9f3.mp4
 
-lutter project.
+
 
 ## Getting Started
 
